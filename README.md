@@ -1,2 +1,2 @@
 # ImageBazzar
-You can upload your image in one place
+You can upload image in one place
